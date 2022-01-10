@@ -18,7 +18,7 @@ __________________________________*/
 _______________________________________*/
 
 html {
-  font-size: 12px;
+  
 }
 
 .row {
@@ -28,8 +28,6 @@ html {
 h1{
   font-size: 3rem;
 }
-@media (min-width:768px) {
-  html {
-    font-size: 16px;
-  }
-}
+
+.servicios>* {
+  border: red solid 1px;
