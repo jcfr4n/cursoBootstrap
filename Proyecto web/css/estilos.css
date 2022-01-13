@@ -31,4 +31,6 @@ h1{
 
 .servicios {
   border: solid green 2px;
+  height: 200px;
+  /*align-items: center;*/
 }
